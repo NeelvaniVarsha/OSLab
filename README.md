@@ -1,1 +1,3 @@
-# OSLab
+OPERATING SYSTEMS LAB 
+Name: Neelvani Varsha Vittal 
+USN: 1BM23CS412
